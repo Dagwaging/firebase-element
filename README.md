@@ -1,7 +1,7 @@
 firebase-element
 ================
 
-See the [component page](http://polymer.github.io/firebase-element) for more information.
+See the [component page](http://polymerelements.github.io/firebase-element) for more information.
 
 firebase-import
 ===============
